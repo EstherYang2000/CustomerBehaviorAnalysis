@@ -1,0 +1,5 @@
+程式碼文件說明：
+
+1. CAI_BehaviorScore_labeling.ipynb: 這是針對第一部分分析顧客活躍度時，將 CAI 及自訂行為分數預處理、計算及貼標相關的程式碼。
+2. CAI_BehaviorScore_analysis.ipynb: 這是針對貼完 CAI 及行為分數後的顧客大表，進行的分析與商業洞悉圖表繪製。
+3. Recommendation_System.ipynb: 這是針對第二部分新產品推薦系統的預處理、迴歸模型定義及實測相關的程式碼。
